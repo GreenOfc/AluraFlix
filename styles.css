@@ -1,0 +1,147 @@
+body {
+    color: white;
+    background: #1f1f1f;
+    margin: 0px;
+    font-family: "Lato", sans-serif;
+    margin-bottom: 50px;
+}
+
+.alunos {
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: white;
+}
+
+.chamada {
+    background: #272727;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+.vídeo-abertura {
+    border: 5px solid white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.tags {
+    color: #51a0ff;
+}
+
+img {
+    height: 255px;
+}
+
+.filmes {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+
+.Categorias {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.index {
+    color: white;
+}
+
+.filmes img {
+    opacity: 0.5;
+}
+
+.filmes img:hover {
+    opacity: 1;
+    border: 2.5px solid white;
+}
+
+.henrique {
+    border-bottom: solid 2px #04e3b4;
+    padding: 20px;
+    font-size: 32px;
+    color: #04e3b4;
+}
+
+.chamada-catalogo-henrique {
+    background: #00795e;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.catehorias-henrique {
+    color: #04e3b4;
+}
+
+.byanka {
+    border-bottom: solid 2px #bc4ed8;
+    padding: 20px;
+    font-size: 32px;
+    color: #bc4ed8;
+}
+
+.chamada-catalogo-byanka {
+    background: #4c007d;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.catehorias-byanka {
+    color: #bc4ed8;
+}
+
+.raphael {
+    border-bottom: solid 2px #eb99b3;
+    padding: 20px;
+    font-size: 32px;
+    color: #eb99b3;
+}
+
+.chamada-catalogo-raphael {
+    background: #ae627c;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.catehorias-raphael {
+    color: #eb99b3;
+}
+
+.ingrid {
+    border-bottom: solid 2px #ff0000;
+    padding: 20px;
+    font-size: 32px;
+    color: #ff0000;
+}
+
+.chamada-catalogo-ingrid {
+    background: #790600;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.catehorias-ingrid {
+    color: #ff0000;
+}
